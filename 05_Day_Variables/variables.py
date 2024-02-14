@@ -10,6 +10,16 @@ print("z is: ",z)
 x="05" #last declare value will be stored in the variable if we redeclare it with same name.
 print("After redeclaring x as string:",x)
 
+#we can use underScore also( _ ) to start a variable name
+
+_c="uderScore" 
+print(_c)
+
+# in one  line declaration for  multiple variables
+
+a,b,c=1,2,"hello"
+print(a,b,c,)
+
 #variable are  case sensitive means a and A are two different variables
 
 a=2
