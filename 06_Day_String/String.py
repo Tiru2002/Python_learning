@@ -18,9 +18,6 @@ print(len(d))
 print("index 0 is",d[0])
 print( "index -1 is ", d[-1] )
 
-#slicing :
-print( 'slicing:',d[2:5])
-print( 'reversed slicing:',d[::-1])
 
 
 
